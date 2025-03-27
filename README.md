@@ -15,7 +15,7 @@ Dosyada, aşağıdaki SQL konuları yer almaktadır:
 - **WİNDOW FUNCTION**
 - **Advanced Aggregation**
 
-## Homework1 - Python ile Veri Analizi ve Manipülasyonu
+## Homework1 & Workshop1 - Python ile Veri Analizi ve Manipülasyonu
 
 Bu çalışmada, Python kullanarak sözlükler ve listelerle veri manipülasyonu yapmayı öğrendim.
 
@@ -39,5 +39,5 @@ Bu çalışmada, Python kullanarak sözlükler ve listelerle veri manipülasyonu
 
 ### 🔹 **Python ile Basit Veri Analizi**
 
-Bu çalışma, **Python'da veri yapıları, döngüler, fonksiyonlar ve liste işlemleri** konularında pratik yapmamı sağladı. Daha detaylı incelemek için `homework1.ipynb` dosyasını açabilirsiniz. 🚀
+Bu çalışma, **Python'da veri yapıları, döngüler, fonksiyonlar ve liste işlemleri** konularında pratik yapmamı sağladı. Daha detaylı incelemek için `homework1.ipynb` ve `workshop1.ipynb`  dosyalarını açabilirsiniz. 🚀
 
