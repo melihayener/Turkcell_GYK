@@ -1,6 +1,6 @@
 # TURKCELL GELECEĞİ YAZAN KADINLAR YAPAY ZEKA PROGRAMI
 
-Bu repository, Turkcell'in **"GELECEĞİ YAZAN KADINLAR YAPAY ZEKA PROGRAMI"**na katıldığım süre boyunca tamamladığım projeler ve ödevlerimi içermektedir.
+Bu repository, Turkcell'in **"GELECEĞİ YAZAN KADINLAR YAPAY ZEKA PROGRAMI"** na katıldığım süre boyunca tamamladığım projeler ve ödevlerimi içermektedir.
 
 ## SQL_Queries
 
