@@ -41,3 +41,5 @@ Bu çalışmada, Python kullanarak sözlükler ve listelerle veri manipülasyonu
 
 Bu çalışma, **Python'da veri yapıları, döngüler, fonksiyonlar ve liste işlemleri** konularında pratik yapmamı sağladı. Daha detaylı incelemek için `homework1.ipynb` ve `workshop1.ipynb`  dosyalarını açabilirsiniz. 🚀
 
+## Homework2
+Bu proje, Jupyter Notebook ortamında yürütülen bir veri analizi çalışmasını içermektedir. Notebook dosyasında veri ön işleme, analiz ve görselleştirme adımları bulunmaktadır. İçeriğinde, belirli bir veri kümesi üzerinde analizler yapmak, istatistiksel hesaplamalar gerçekleştirmek ve sonuçları grafiklerle sunmak için Python kütüphaneleri kullanılmaktadır. Ayrıca, belirli desenler veya eğilimler tespit edilerek çıkarımlar yapılmaktadır.
