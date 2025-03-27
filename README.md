@@ -15,7 +15,7 @@ Dosyada, aşağıdaki SQL konuları yer almaktadır:
 - **WİNDOW FUNCTION**
 - **Advanced Aggregation**
 
-## Homework1_python - Python ile Veri Analizi ve Manipülasyonu
+## Homework1 - Python ile Veri Analizi ve Manipülasyonu
 
 Bu çalışmada, Python kullanarak sözlükler ve listelerle veri manipülasyonu yapmayı öğrendim.
 
