@@ -62,16 +62,14 @@ Analizler:
 ## Homework4 - 
 Bu ödev, Turkcell Genç Yetenek programı için hazırlanmış bir Jupyter Notebook analizidir. Amacı, katılımcıların veri analizi becerilerini Python kullanarak göstermelerini sağlamaktır.
 
-Temel İşlevler
-
+Temel İşlevler:
 -Veriyi okuma.
 -Veriyi temizleme (eksik veya hatalı kısımları düzeltme).
 -Veriyi analiz etme (istatistiksel bilgiler çıkarma, ilişkileri bulma).
 -Grafikler çizerek veriyi görselleştirme.
 -Analiz sonuçlarını yorumlama.
 
-Kullanılan Python Kütüphaneleri
-
+Kullanılan Python Kütüphaneleri:
 -pandas: Veri tablolarını kolayca işlemek için.
 -numpy: Matematiksel işlemler için.
 -matplotlib ve seaborn: Grafik çizmek için.
