@@ -43,3 +43,18 @@ Bu çalışma, **Python'da veri yapıları, döngüler, fonksiyonlar ve liste i�
 
 ## Homework2
 Bu proje, Jupyter Notebook ortamında yürütülen bir veri analizi çalışmasını içermektedir. Notebook dosyasında veri ön işleme, analiz ve görselleştirme adımları bulunmaktadır. İçeriğinde, belirli bir veri kümesi üzerinde analizler yapmak, istatistiksel hesaplamalar gerçekleştirmek ve sonuçları grafiklerle sunmak için Python kütüphaneleri kullanılmaktadır. Ayrıca, belirli desenler veya eğilimler tespit edilerek çıkarımlar yapılmaktadır.
+
+## Homework3  - E-Ticaret Şirketi İçin Veri Analizi
+Bu çalışma, bir e-ticaret şirketinin müşteri alışveriş alışkanlıklarını analiz etmeyi ve en çok satan ürünleri belirlemeyi amaçlamaktadır. NumPy kullanılarak rastgele satış verileri üretilmiş ve analiz edilmiştir.
+
+İçerik:
+Veri Üretimi:
+- 1000 müşterinin harcama tutarları (50 TL - 5000 TL aralığında rastgele)
+- 1000 müşterinin satın aldığı ürün sayıları (1 - 10 aralığında rastgele)
+- 1000 müşterinin indirim kullanıp kullanmadığı (0: Hayır, 1: Evet - %30 indirim aldı)
+- Ürün fiyatları (10 TL - 1000 TL aralığında rastgele)
+
+Analizler:
+- Müşteri başına ortalama harcama
+- İndirim kullanan ve kullanmayan müşterilerin karşılaştırılması
+- En çok satan ürün kategorileri
